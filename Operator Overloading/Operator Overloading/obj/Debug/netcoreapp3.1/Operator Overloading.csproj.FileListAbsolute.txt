@@ -1,0 +1,14 @@
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\bin\Debug\netcoreapp3.1\Operator Overloading.exe
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\bin\Debug\netcoreapp3.1\Operator Overloading.deps.json
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\bin\Debug\netcoreapp3.1\Operator Overloading.runtimeconfig.json
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\bin\Debug\netcoreapp3.1\Operator Overloading.runtimeconfig.dev.json
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\bin\Debug\netcoreapp3.1\Operator Overloading.dll
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\bin\Debug\netcoreapp3.1\Operator Overloading.pdb
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.csproj.AssemblyReference.cache
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.AssemblyInfoInputs.cache
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.AssemblyInfo.cs
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.csproj.CoreCompileInputs.cache
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.dll
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.pdb
+C:\Users\Elnur\Desktop\Operator Overloading\Operator Overloading\Operator Overloading\obj\Debug\netcoreapp3.1\Operator Overloading.genruntimeconfig.cache
